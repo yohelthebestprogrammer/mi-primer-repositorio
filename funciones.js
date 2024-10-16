@@ -1,9 +1,9 @@
 function saludo(nombre, apellido) {
-   return 'hola  ' +  nombre + '+' + apellido
+   return 'hola ' +  nombre + '+' + apellido
 }
 console.log(saludo('yohel','ramirez'))
 
-function suma(numeroUno, numeroDos){
+functsuma(numeroUno, numeroDos){
     return  + numeroUno + ' ' + numeroDos
 }
 
